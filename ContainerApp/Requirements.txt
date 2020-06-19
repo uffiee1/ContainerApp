@@ -1,0 +1,8 @@
+﻿Requirements:
+Done -	Max 120 ton == draaggewicht
+Done -	Elke volle container == max 30 ton
+Done -	Lege container == 4 ton
+Done -	Eerste rij gekoelde containers
+-	Waardevolle containers niets bovenop en moet aan voor- en achterzijde bereikbaar zijn 
+-	ten minste 50% van het maximum gewicht gebruiken om kapseizen te voorkomen
+WIP -	Verschil gewicht van Links en- Rechts <= aan 20% van het totale gewicht
